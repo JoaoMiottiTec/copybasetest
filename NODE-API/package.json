@@ -1,0 +1,22 @@
+{
+  "name": "metadata-copybase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "pymport": "^1.4.3",
+    "read-excel-file": "^5.7.1"
+  },
+  "devDependencies": {
+    "node-pandas": "^1.0.5"
+  }
+}
